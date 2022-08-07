@@ -1,0 +1,1 @@
+To use edf to csv conversion, add in the physionet database into this file. This folder should comtain SYYYRZZ folders that contain the .edf and .edf.event files. 
